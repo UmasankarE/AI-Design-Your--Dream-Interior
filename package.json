@@ -1,0 +1,23 @@
+{
+  "name": "ai-design-your-dream-interior",
+  "version": "1.0.0",
+  "description": "AI Based Interior Design Recommendation System",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "live-server",
+    "build": "echo 'Build process for production'",
+    "test": "echo 'Testing...'" 
+  },
+  "keywords": [
+    "interior-design",
+    "ai",
+    "recommendation",
+    "design-system"
+  ],
+  "author": "UmasankarE",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
